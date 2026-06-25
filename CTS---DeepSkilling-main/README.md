@@ -163,7 +163,7 @@ Through this program, I aim to:
 
 ## Academic Information
 
-**Name:** Kakumanu VenkataSadwik
+**Name:** Pachipulusu Kameswara Abhilash
 **Degree:** B.Tech – Computer Science & Engineering
 **University:** Vignan University
 
